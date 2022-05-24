@@ -1,5 +1,5 @@
 # Snake
-The classic 'snake' game, written in processing. Meant to be a Mac OSX executable application.
+The classic 'snake' game, written in processing.
 
 Instructions: 
  - Use the arrow keys to move the snake
